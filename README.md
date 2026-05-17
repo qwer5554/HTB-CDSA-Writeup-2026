@@ -15,10 +15,15 @@ The SOC Analyst path provides you with everything you need to know for the exam,
 I’m not going to give a blow-by-blow review of each module, but here are some I found particularly interesting and/or useful for the exam:
 
 Windows Event Logs & Finding Evil — Introduces Sysmon and Windows Event Logs, and how they can be used to uncover malicious activity.
+
 Introduction to Threat Hunting & Hunting with Elastic — Covers foundational threat hunting with Elastic, which is used in the first incident in the exam.
+
 Introduction to Malware Analysis — Covers static and dynamic analysis on both Linux and Windows.
+
 Introduction to Digital Forensics — Explores both disk and memory forensics, as well as building timelines across diverse data sources.
+
 Detecting Windows Attacks with Splunk — Focuses on analysing common Active Directory attacks such as reconnaissance, password spraying, and Kerberos abuse using Splunk.
+
 Security Incident Reporting: Critical preparation for writing the final exam report.
 
 ## The Exam Experience
@@ -36,4 +41,4 @@ Take good notes, capture screenshots, and write the report as you go.
 Revisit and master the Splunk and Elastic modules — these are vital for the exam.If specific attacks are mentioned, refer back to the relevant modules that cover them.
 If you can’t find an answer, move on and come back — sometimes later answers help you reverse engineer earlier ones.
 
-Personal notes and tips https://tr.ee/p195Pu 
+Notes and Tips https://tr.ee/p195Pu 
