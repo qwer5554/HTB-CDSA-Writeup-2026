@@ -28,6 +28,7 @@ Security Incident Reporting: Critical preparation for writing the final exam rep
 
 ## The Exam Experience
 The CDSA exam is comprised of two core incidents which you are tasked with investigating over 7 days. For the first incident, you must answer 17 out of 20 questions by submitting the MD5 hash of the flag as the answer. In addition to this, you must submit a full commercial-grade report covering both incidents.
+
 I started my exam on a Saturday to give myself the whole weekend to get through as much of the analysis as possible. I also built my report as I investigated each incident and took an excessive amount of screenshots for evidence. 
 I managed to find 20/20 flags for the first incident, but unfortunately, due to a combination of life commitments, the day job, and VPN issues, I didn’t finish investigating both incidents until the Thursday evening.
 
